@@ -1,0 +1,9 @@
+streamlit
+groq
+pandas
+pypdf
+sentence-transformers
+faiss-cpu
+requests
+beautifulsoup4
+numpy
