@@ -1,0 +1,67 @@
+{
+  "project": "SceneGuard AI",
+  "version": "2.0",
+  "knowledge_base": "Official NFA Pakistan sources",
+  "sources": [
+    {
+      "id": "NFA_PUBLIC_SOP",
+      "title": "Public SOP \u2014 National Forensics Agency",
+      "authority": "National Forensics Agency (Pakistan)",
+      "url": "https://nfa.gov.pk/downloads/PUBLIC%20SOP%20National%20Forensics%20Agency.pdf",
+      "file": "nfa_public_sop.pdf",
+      "type": "pdf",
+      "sha256": "535dfd566a90fe9f2c24adc0fb6438a7edeb11feffc5e44157aba42b4b78cb7d",
+      "bytes": 547739
+    },
+    {
+      "id": "NFA_EVIDENCE_SUBMISSION",
+      "title": "NFA Evidence Submission Form",
+      "authority": "National Forensics Agency (Pakistan)",
+      "url": "https://nfa.gov.pk/downloads/Evidence%20Submission%20Form.pdf",
+      "file": "nfa_evidence_submission_form.pdf",
+      "type": "pdf",
+      "sha256": "394cb4352122a60fcac19097c9de9177fea5591aa3b2b7f1455bde80819b8d30",
+      "bytes": 296521
+    },
+    {
+      "id": "NFA_DIGITAL_REQUEST",
+      "title": "NFA Digital Forensics Request Form",
+      "authority": "National Forensics Agency (Pakistan)",
+      "url": "https://nfa.gov.pk/downloads/Digital%20Forensics%20Request%20Form.pdf",
+      "file": "nfa_digital_forensics_request_form.pdf",
+      "type": "pdf",
+      "sha256": "fbc4860daf8c957fd0b6cb9afbbf330f97faf6c136d61b9e3c281c489e904d4d",
+      "bytes": 635308
+    },
+    {
+      "id": "NFA_LFP_REQUEST",
+      "title": "NFA Latent Fingerprint Request Form",
+      "authority": "National Forensics Agency (Pakistan)",
+      "url": "https://nfa.gov.pk/downloads/032.LFP%20Request%20Form.pdf",
+      "file": "nfa_lfp_request_form.pdf",
+      "type": "pdf",
+      "sha256": "4c7b49ce0744fdef5f5682d092644988442bfc0d18d5c12b0803baa7c0f5d17d",
+      "bytes": 226084
+    },
+    {
+      "id": "NFA_DNA_REQUEST",
+      "title": "NFA DNA & Serology Request Form",
+      "authority": "National Forensics Agency (Pakistan)",
+      "url": "https://nfa.gov.pk/downloads/66.%20DNA%20Request%20Form%2000.pdf",
+      "file": "nfa_dna_request_form.pdf",
+      "type": "pdf",
+      "sha256": "705c4cd74ae36e5bd5070cc6bf78274de0e215a81fc33050958d33bdec88ddd9",
+      "bytes": 169142
+    },
+    {
+      "id": "NFA_GUIDELINES",
+      "title": "NFA Evidence Collection, Packaging and Submission Guidelines",
+      "authority": "National Forensics Agency (Pakistan)",
+      "url": "https://www.nfa.gov.pk/Guidelines/",
+      "file": "nfa_guidelines_snapshot.txt",
+      "type": "web_snapshot",
+      "sha256": "55c9548f213da272831c41d5e6b4fd26c7bf69d6d6e0971847f4f8afb2fcf089",
+      "bytes": 35654
+    }
+  ]
+}
